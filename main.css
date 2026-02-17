@@ -1,25 +1,26 @@
 .father {
   margin: auto;
   margin-top: 10vh;
+  padding-top: 20%;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   background: hsl(216 15% 48%);
   width: 80vw;
   height: 80vh;
+  border-radius: 10px;
 }
 
 .container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
   background: hsl(212 45% 89%);
   width: 20vw;
-  height: 40vh;
+  height: 80vh;
+  border-radius: 10px;
 }
 
 .child {
   width: 15vw;
   height: 25vh;
   background: hsl(218, 44%, 22%);
+  border-radius: 10px;
 }
