@@ -1,15 +1,25 @@
-body {
-  background: hsl(216 15% 48%);
-}
-
-.outer {
-  background: hsl(212 45% 89%);
-  width: 61px;
-  height: 80px;
-}
-
-div {
+.father {
+  margin: auto;
+  margin-top: 10vh;
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  justify-content: center;
+  background: hsl(216 15% 48%);
+  width: 80vw;
+  height: 80vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: hsl(212 45% 89%);
+  width: 20vw;
+  height: 40vh;
+}
+
+.child {
+  width: 15vw;
+  height: 25vh;
+  background: hsl(218, 44%, 22%);
 }

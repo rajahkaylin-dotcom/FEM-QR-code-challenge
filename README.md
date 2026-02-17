@@ -12,3 +12,4 @@
 
 - Had a small mishap, tried pushing new code to github, met with an error because somehow I cloned the repo in a directory within the directory I was working in.
 - Tried for a while to fix it, ended up deleting github repo and creating a new directory with saved changes from my local directory, the changes on this readme file made it through, as well as my upddated css document, but my html file suffered from irreversable damage, so I had to start just the HTML bit from scratch.
+- Still having some trouble centering the div elements like in the picture, even while using flexbox, so I used three divs nested within each other to try and use flexbox on both child divs, getting close, so I decided to use margin and padding to try and make up the difference.
