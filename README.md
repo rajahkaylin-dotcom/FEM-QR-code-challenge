@@ -7,3 +7,8 @@
 - Started styling the body background in CSS as well as the outer div container, but hit a roadblock while trying to figure out how to properly center the div.
 - Started learning flexbox in order to meet the previously mentioned challenge, but cannot seem to get the CSS to work properly, using html and css validators to look for broken code.
 - Taking a small break to figure out flexbox then returning.
+
+### Afternoon session
+
+- Had a small mishap, tried pushing new code to github, met with an error because somehow I cloned the repo in a directory within the directory I was working in.
+- Tried for a while to fix it, ended up deleting github repo and creating a new directory with saved changes from my local directory, the changes on this readme file made it through, as well as my upddated css document, but my html file suffered from irreversable damage, so I had to start just the HTML bit from scratch.
