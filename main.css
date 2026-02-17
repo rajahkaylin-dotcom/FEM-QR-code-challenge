@@ -1,0 +1,15 @@
+body {
+  background: hsl(216 15% 48%);
+}
+
+.outer {
+  background: hsl(212 45% 89%);
+  width: 61px;
+  height: 80px;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
