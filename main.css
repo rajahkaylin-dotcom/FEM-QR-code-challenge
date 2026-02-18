@@ -6,7 +6,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background: hsl(216 15% 48%);
+  background: hsl(216 50% 90%);
   width: 78vw;
   height: 78vh;
   border-radius: 10px;
@@ -20,13 +20,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: hsl(212 45% 89%);
-  width: 18vw;
-  height: 78vh;
-  border-radius: 10px;
+  /* background: hsl(212 45% 89%); */
+  background: #fff;
+  width: 20vw;
+  height: 65vh;
+  border-radius: 1.2rem;
   padding-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
+  font-size: 1rem;
+  text-align: center;
 }
 
 .child {
@@ -42,4 +45,12 @@
   justify-content: space-around;
   align-items: center;
   flex-direction: row;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+.main-para {
+  color: hsl(216, 18%, 54%);
 }

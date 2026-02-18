@@ -19,3 +19,7 @@
 ## 18-02-2025
 
 - First thing's first, creating a new container for the divs using the main element.
+- Everything is starting to take shape, I managed to use float accordingly and use margin and padding to space out everything simlilarly to the sample, still trying to get the color as close as possible though.
+- color and layout almost complete, managed to get there through experimenting with the saturation and lightness values given from the style template readme.
+- spending a little bit of time on the text color.
+- Not entirely there with the text color yet, will have to start using figma to get better results, other than that, the only thing to do now is to add the qr code image and small bits, such as maybe a footer, then make sure that the code is as accessible to screen readers as possible.
