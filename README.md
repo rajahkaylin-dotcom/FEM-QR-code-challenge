@@ -15,3 +15,7 @@
 - Still having some trouble centering the div elements like in the picture, even while using flexbox, so I used three divs nested within each other to try and use flexbox on both child divs, getting close, so I decided to use margin and padding to try and make up the difference.
 - <mark>I just found out</mark> that the `display: flex` property in CSS can be used on almost any parent element, which would act as the flex container, to control the position of any child element.
 - It **DOES NOT** only need to be used on divs as both parent and child elements.
+
+## 18-02-2025
+
+- First thing's first, creating a new container for the divs using the main element.
